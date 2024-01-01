@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Sree
 
-#### 🌐 Web & Mobile UI Architect | Angular & React Maestro
+#### 🚀 Passionate Full-Stack Developer | JavaScript & Python Enthusiast
 I am a highly skilled and passionate Full-Stack Developer with extensive expertise in JavaScript and Python. My journey in the realm of web and mobile development has been marked by a deep commitment to crafting seamless user experiences.
 
 #### 👨‍💻 Technical Proficiency:
