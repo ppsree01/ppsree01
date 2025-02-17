@@ -13,7 +13,7 @@ I am a highly skilled and passionate Full-Stack Developer with extensive experti
 
 
 #### 📬 Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/ppsree01/) | [Github](https://github.com/ppsree01) | [Portfolio](http://ppsree.net)
+[LinkedIn](https://www.linkedin.com/in/ppsree01/) | [Github](https://github.com/ppsree01)
 
 <!--
 **ppsree01/ppsree01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
